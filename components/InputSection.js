@@ -75,7 +75,6 @@ const styles = StyleSheet.create({
     color: "#03803b",
   },
   inputControll: {
-    backgroundColor: "#fff",
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
